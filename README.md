@@ -58,3 +58,5 @@ Desenvolvido com amor 💜 por **Daianny Storch**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daianny-storch/)
 
 ⭐ **Se você gostou do projeto, considere dar uma estrela no repositório!**
+
+![Rodar no Replit](https://img.shields.io/badge/Rodar_Projeto-Replit-orange?style=for-the-badge) https://replit.com/@daiannystorch/GerenciadordeTarefas
