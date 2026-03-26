@@ -59,4 +59,4 @@ Desenvolvido com amor 💜 por **Daianny Storch**
 
 ⭐ **Se você gostou do projeto, considere dar uma estrela no repositório!**
 
-![Rodar no Replit](https://img.shields.io/badge/Rodar_Projeto-Replit-orange?style=for-the-badge) https://replit.com/@daiannystorch/GerenciadordeTarefas
+(https://colab.research.google.com/drive/179O-tyNT1LgXuBe-elEQiKLwsO0qVG7P?usp=sharing)
